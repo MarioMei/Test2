@@ -3,3 +3,7 @@ This is a test file
 Create one new branch
 
 added after creating new branch
+
+updated after merge
+
+updated after creating pull request
